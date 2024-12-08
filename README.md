@@ -1,2 +1,1 @@
-# TrungTamDayToanTriTue-WinForms
-CTU
+# C# TrungTamDayToanTriTue
