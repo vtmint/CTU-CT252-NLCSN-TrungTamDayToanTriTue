@@ -1,0 +1,15 @@
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\bin\Debug\FrmQuanLy.exe.config
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\bin\Debug\FrmQuanLy.exe
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\bin\Debug\FrmQuanLy.pdb
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.csprojAssemblyReference.cache
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.Properties.Resources.resources
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.csproj.GenerateResource.cache
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.csproj.CoreCompileInputs.cache
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.exe
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.pdb
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.FrmQuanLy.resources
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.FrmKhoaHoc.resources
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.FrmNhanVien.resources
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.FrmLop.resources
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.FrmHocVien.resources
+D:\workspace\2023-2024 HK1\CT252-Niên Luận Cơ Sở Ngành HTTT\QuanLyTrungTam\FrmQuanLy\FrmQuanLy\obj\Debug\FrmQuanLy.FrmPDK.resources
